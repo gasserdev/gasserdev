@@ -27,7 +27,8 @@ Right now, I’m focused on improving my **HTML, CSS, and JavaScript** skills.
 
 ##  GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gasserdev&theme=tokyo-night)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gasserdev&theme=tokyo-night)](https://github.com/gasserdev)
+
 
 
 
