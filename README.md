@@ -25,7 +25,7 @@ Right now, I’m focused on improving my **HTML, CSS, and JavaScript** skills.
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 ![Gasser's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gasserdev&show_icons=true&theme=tokyonight)
 
