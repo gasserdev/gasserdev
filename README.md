@@ -9,7 +9,7 @@ Right now, I’m focused on improving my **HTML, CSS, and JavaScript** skills.
 ---
 
 ## Skills
-- HTML5
+- HTML5![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 - CSS3
 - JavaScript
 - Bootstrap
