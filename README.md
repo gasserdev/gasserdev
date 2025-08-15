@@ -1,7 +1,6 @@
 # Hi, I'm Gasser 👋
 I'm based in Egypt.  
 **Front-End Developer**
-
 Welcome to my GitHub!  
 I enjoy creating **websites** that look great and work smoothly.  
 Right now, I’m focused on improving my **HTML, CSS, and JavaScript** skills.
