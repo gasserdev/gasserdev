@@ -1,5 +1,5 @@
 # Hi, I'm Gasser 👋
-I'm based in Egypt 🇪🇬.  
+I'm based in Egypt.  
 **Front-End Developer**
 
 Welcome to my GitHub!  
@@ -9,10 +9,10 @@ Right now, I’m focused on improving my **HTML, CSS, and JavaScript** skills.
 ---
 
 ## Skills
-![HTML5]([https://img.shields.io/badge/-HTML5?style=flat-square&logo=html5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5))
-![CSS3](https://img.shields.io/badge/-CSS3?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript?style=flat-square&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap?style=flat-square&logo=bootstrap)
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
 - GitHub
 
 ---
@@ -21,6 +21,7 @@ Right now, I’m focused on improving my **HTML, CSS, and JavaScript** skills.
 - Build creative front-end projects
 - Improve JavaScript animations and interactivity
 - Explore more CSS design techniques
+- Learn TypeScript soon
 
 ---
 
