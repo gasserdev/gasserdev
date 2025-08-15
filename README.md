@@ -25,13 +25,9 @@ Right now, I’m focused on improving my **HTML, CSS, and JavaScript** skills.
 
 ---
 
-##  GitHub Activity
-![Snake](https://raw.githubusercontent.com/gasserdev/snk/output/github-contribution-grid-snake.svg)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gasserdev/snk/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/gasserdev/snk/output/github-contribution-grid-snake.svg" />
-</picture>
+## GitHub Activity
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gasserdev&theme=tokyo-night)](https://github.com/gasserdev)
 
 
 
