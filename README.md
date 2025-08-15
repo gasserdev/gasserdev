@@ -27,9 +27,9 @@ Right now, I’m focused on improving my **HTML, CSS, and JavaScript** skills.
 
 ## 📊 GitHub Activity
 
-![Gasser's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GasserZayed&show_icons=true&theme=tokyonight)
+![Gasser's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gasserdev&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GasserZayed&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasserdev&layout=compact&theme=tokyonight)
 
 ---
 
