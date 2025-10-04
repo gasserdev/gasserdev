@@ -24,6 +24,7 @@ Right now, I’m focused on improving my **HTML, CSS, and JavaScript** skills.
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gasserdev&layout=compact&theme=dark" />
   <img src="https://img.shields.io/github/followers/gasserdev?style=for-the-badge" /> 
+  
 ---
 
 ## Learning Goals
