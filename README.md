@@ -24,7 +24,7 @@ Right now, I’m focused on improving my **HTML, CSS, and JavaScript** skills.
 ---
 
 ## Most Used Languages
-  <img style="margin:0 auto;width:300px;height:200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gasserdev&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gasserdev&layout=compact&theme=dark" />
 
 ---
 
