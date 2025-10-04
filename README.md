@@ -1,7 +1,6 @@
-# Hi, I'm Gasser
+# Hi, I'm Gasser Zayed 👋
 I'm based in Egypt.  
 Born on: 14 March 2012  
-
 **Junior Front-End Developer**  
 Welcome to my GitHub! I enjoy creating **websites** that look great and work smoothly.  
 Right now, I’m focused on improving my **HTML, CSS, and JavaScript** skills.
@@ -23,8 +22,9 @@ Right now, I’m focused on improving my **HTML, CSS, and JavaScript** skills.
 
 ---
 
-## Most Used Languages
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gasserdev&layout=compact&theme=dark" />
+    <img src="https://img.shields.io/github/followers/gasserdev?style=for-the-badge" /> 
+  <img src="https://img.shields.io/github/following/gasserdev?style=for-the-badge" />
 
 ---
 
