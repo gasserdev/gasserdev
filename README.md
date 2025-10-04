@@ -23,7 +23,7 @@ Right now, I’m focused on improving my **HTML, CSS, and JavaScript** skills.
 
 ## Most Used Languages
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gasserdev&layout=compact&theme=tokyo-night" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gasserdev&layout=compact&theme=dark" />
 </p>
 
 ---
