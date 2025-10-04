@@ -16,10 +16,10 @@ Right now, I’m focused on improving my **HTML, CSS, and JavaScript** skills.
 - ![Axios](https://img.shields.io/badge/Axios-007FFF?style=flat-square&logo=axios&logoColor=white)
 - ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasserdev&layout=compact)
 
 
 ---
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasserdev&layout=compact)
 ---
 ## Learning Goals
 - Build creative front-end projects
