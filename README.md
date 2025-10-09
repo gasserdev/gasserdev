@@ -28,8 +28,8 @@ Right now, I’m focused on improving my **HTML, CSS, and JavaScript** skills.
   </p>
   <p align="center">
       <img style='margin:10px auto' src="https://img.shields.io/github/followers/gasserdev?style=for-the-badge" /> 
-
-</p>
+      <img src="https://komarev.com/ghpvc/?username=gasserdev&style=for-the-badge&color=blue" alt="visitors"/>
+  </p>
   
 ---
 
