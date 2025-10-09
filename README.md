@@ -23,10 +23,13 @@ Right now, I’m focused on improving my **HTML, CSS, and JavaScript** skills.
 ---
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gasserdev&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gasserdev&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=gasserdev&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="height:160px" height="160px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gasserdev&layout=compact&theme=tokyonight" style="height:160px" alt="Top Languages" height="160px"/>
   </p>
-  <img style='margin:10px auto' src="https://img.shields.io/github/followers/gasserdev?style=for-the-badge" /> 
+  <p align="center">
+      <img style='margin:10px auto' src="https://img.shields.io/github/followers/gasserdev?style=for-the-badge" /> 
+
+</p>
   
 ---
 
