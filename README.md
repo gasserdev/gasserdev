@@ -1,5 +1,5 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
-# Hi, I'm Gasser Zayed 👋
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=HI,%20I'm%20Gasser%20Zayed%20👋&fontAlign=50&fontAlignY=40&color=gradient&dir=ltr)
+---
 I'm based in Egypt.  
 Born on: 14 March 2012  
 **Junior Front-End Developer**  
