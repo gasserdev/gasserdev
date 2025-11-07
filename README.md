@@ -21,6 +21,14 @@ Right now, I’m focused on improving my **HTML, CSS, and JavaScript** skills.
 
 
 ---
+  <p align="center">
+    <a href="http://paypal.me/AmrZayed662" target="_blank">
+      <img 
+        src="https://img.shields.io/badge/Support%20Me%20on%20PayPal-ff69b4?style=for-the-badge&logo=paypal&logoColor=white"
+        alt="Support Me on PayPal"
+      />
+    </a>
+  </p>
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=gasserdev&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="height:160px" height="160px"/>
