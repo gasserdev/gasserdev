@@ -32,7 +32,6 @@ Right now, I’m focused on **JavaScript logic, algorithms, data structures**, a
 </p>
 
 <p align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-stats-alpha.vercel.app/api?username=gasserdev&cc=1a1b27&tc=c0caf5&ic=7aa2f7" alt="GitHub Stats" style="height:160px" height="160px"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gasserdev&theme=tokyonight" style="height:160px" alt="Top Languages" height="160px"/>
   <p align="center">
