@@ -53,7 +53,7 @@ Right now, I’m focused on **JavaScript logic, algorithms, data structures**, a
 - Focus on **algorithms, data structures, and problem solving**  
 - Build **interactive front-end projects** with logic-driven features  
 - Explore **JavaScript, C, and Tailwind CSS** in depth  
-- Learn TypeScript soon  
+- Learn TypeScript & Solidjs soon  
 
 ---
 
