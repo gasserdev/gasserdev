@@ -44,21 +44,13 @@ Right now, I’m focused on **JavaScript logic, algorithms, data structures**, a
 
 <p align="center">
   <img style='margin:10px auto' src="https://img.shields.io/github/followers/gasserdev?style=for-the-badge" /> 
-  <img src="https://komarev.com/ghpvc/?username=gasserdev&style=for-the-badge&color=blue" alt="visitors"/>
 </p>
 
 ---
 
 ## Learning Goals
-- Focus on **algorithms, data structures, and problem solving**  
 - Build **interactive front-end projects** with logic-driven features  
-- Explore **JavaScript, C, and Tailwind CSS** in depth  
-- Learn TypeScript & Solidjs soon  
-
----
-
-## GitHub Activity
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gasserdev&theme=tokyo-night)](https://github.com/gasserdev)
+- Learn TypeScript & React soon  
 
 ---
 
