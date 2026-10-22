@@ -26,12 +26,6 @@ Right now, I’m focused on **JavaScript logic, algorithms, data structures**, a
 ---
 
 <p align="center">
-  <a href="http://paypal.me/AmrZayed662" target="_blank">
-    <img src="https://img.shields.io/badge/Support%20Me%20on%20PayPal-ff69b4?style=for-the-badge&logo=paypal&logoColor=white" alt="Support Me on PayPal"/>
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=gasserdev&cc=1a1b27&tc=c0caf5&ic=7aa2f7" alt="GitHub Stats" style="height:160px" height="160px"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gasserdev&theme=tokyonight" style="height:160px" alt="Top Languages" height="160px"/>
 <p align="center">
