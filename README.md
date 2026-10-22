@@ -60,4 +60,4 @@ Right now, I’m focused on **JavaScript logic, algorithms, data structures**, a
 
 ---
 
-**"Keep learning, keep building"**
+**"Keep It Simple"**
